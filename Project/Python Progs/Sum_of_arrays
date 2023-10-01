@@ -1,0 +1,64 @@
+rending Now
+Data Structures
+Algorithms
+Foundational Courses
+Data Science
+Practice Problem
+Python
+Machine Learning
+JavaScript
+Java
+C
+C++
+ReactJS
+NodeJS
+Competitive Programming
+Aptitude
+Puzzles
+Projects
+Web Development
+
+
+Related Articles
+Write an Interview Experience
+Share Your Campus Experience
+Python Programs
+Basic Programs
+Array Programs
+Python Program to Find Sum of Array
+Python Program to Find Largest Element in an Array
+Python Program for Array Rotation
+Python Program for Reversal algorithm for array rotation
+Python Program to Split the array and add the first part to the end
+Python Program for Find remainder of array multiplication divided by n
+Python Program to check if given array is Monotonic
+List Programs
+Matrix Programs
+String Programs
+Dictionary Programs
+Tuple Programs
+Searching and Sorting Programs
+Pattern Printing Programs
+Date-Time Programs
+Python Regex Programs
+Python File Handling Programs
+More Python Programs
+Python Program to Find Sum of Array
+Read
+Discuss
+Courses
+Given an array of integers, find the sum of its elements.
+
+Examples:
+
+Input : arr[] = {1, 2, 3}
+Output : 6
+Explanation: 1 + 2 + 3 = 6
+This Python program calculates the sum of an array by iterating through each element and adding it to a running total. The sum is then returned. An example usage is provided to demonstrate the calculation of the sum for a given array.
+
+Python Program to Find Sum of Array
+Iterating through the array and adding each element to the sum variable and finally displaying the sum.
+
+Python3
+# Python 3 code to find sum
+# of elements in given array
